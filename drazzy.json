@@ -3238,7 +3238,7 @@
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-azduino5-x86_64-pc-linux-gnu.tar.bz2",
               "url": "https://github.com/SpenceKonde/DxCore/raw/gh-pages/avr-gcc-7.3.0-atmel3.6.1-azduino5-x86_64-pc-linux-gnu.tar.bz2"
-            },
+            }
           ]
         }
       ]
