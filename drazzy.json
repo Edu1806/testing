@@ -3231,13 +3231,6 @@
               "host": "x86_64-apple-darwin14",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-azduino5-x86_64-apple-darwin14.tar.bz2",
               "url": "https://spencekondetoolchains.s3.amazonaws.com/avr-gcc-7.3.0-atmel3.6.1-azduino5-x86_64-apple-darwin14.tar.bz2"
-            },
-            {
-              "size": "37730911",
-              "checksum": "SHA-256:03ff351cf64c1259af2549f330006774ba6b3d2121b7874a37285143eb5937ea",
-              "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-azduino5-x86_64-pc-linux-gnu.tar.bz2",
-              "url": "https://github.com/SpenceKonde/DxCore/raw/gh-pages/avr-gcc-7.3.0-atmel3.6.1-azduino5-x86_64-pc-linux-gnu.tar.bz2"
             }
           ]
         }
